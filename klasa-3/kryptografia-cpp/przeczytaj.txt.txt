@@ -1,0 +1,7 @@
+Wymagane programy do działania:
+- Visual Studio 2022
+- vcpkg https://vcpkg.io/en/getting-started.html
+
+Instalacja zależności do projektu
+vcpkg install cryptopp:x64-windows
+
