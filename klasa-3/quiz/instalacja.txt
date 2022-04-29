@@ -1,0 +1,7 @@
+Otwieranie projektu z Visual Studio - https://docs.microsoft.com/pl-pl/cpp/build/cmake-projects-in-visual-studio?view=msvc-170
+vcpkg jako menedżer paczek - https://vcpkg.io
+
+1. instalujemy vcpkg https://vcpkg.io/en/getting-started.html
+2. Uruchamiamy komendę .\vcpkg install nlohmann-json
+3. Otwieramy projekt w Visual Studio
+4. Skompilować i uruchomić program

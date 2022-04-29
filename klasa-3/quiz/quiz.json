@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Akronim od PHP",
+    "a": "Hypertext Preprocessor",
+    "b": "Hypertext Processor",
+    "c": "Hypertext Markup Language",
+    "d": "Haskel",
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Ktory ponizszy jezyk nie jest obiektowy",
+    "a": "C++",
+    "b": "C#",
+    "c": "Java",
+    "d": "C",
+    "correctAnswer": "d"
+  },
+  {
+    "question": "Rozwiniecie JVM",
+    "a": "Java Virtual Machine",
+    "b": "Virtual Box",
+    "c": "Jevel Virtual Machine",
+    "d": "Java Machine Virtual",
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Ktory nie jest frameworkiem webowym",
+    "a": "ASP.NET Core",
+    "b": "Django",
+    "c": "Falcon",
+    "d": "Express.js",
+    "correctAnswer": "c"
+  },
+  {
+    "question": "Kto jest tworca Pythona",
+    "a": "Guido van Rossum",
+    "b": "Anders Hejlsberg",
+    "c": "James Gosling",
+    "d": "James Bond",
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Co to jest MySQL",
+    "a": "Baza dokumentowa",
+    "b": "Parser JSON",
+    "c": "Szkola",
+    "d": "Relacyjna baza danych",
+    "correctAnswer": "d"
+  },
+  {
+    "question": "Jaki wynik bedzie mialo te polecenie: Console.WriteLine(\"Hello, World!\")",
+    "a": "Hello, World!",
+    "b": "-",
+    "c": "null",
+    "d": "undefined",
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Jaki wynik bedzie z 20 + '10' w JavaScript",
+    "a": "1020",
+    "b": "30",
+    "c": "2010",
+    "d": "error",
+    "correctAnswer": "c"
+  },
+  {
+    "question": "Co oznacza ta metoda std::cin",
+    "a": "pobranie od uzytkownika wyjscia",
+    "b": "wypisanie na ekranie tresci",
+    "c": "pobranie od uzytkownika wejscia",
+    "d": "wywali blad",
+    "correctAnswer": "c"
+  },
+  {
+    "question": "Co oznacza polecenie SELECT",
+    "a": "Usuniecie bazy danych",
+    "b": "Pobranie danych z tabeli",
+    "c": "Usuniecie danych z tabeli",
+    "d": "Usuniecie komputera",
+    "correctAnswer": "b"
+  }
+]
